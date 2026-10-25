@@ -1,0 +1,5 @@
+interface:
+  display_name: "Simplify Design"
+  short_description: "Simplify software design when implementing requirements, refactoring code, or removing complexity. Use when a requirement should shape the design from first principles or an existing solution needs simplification."
+policy:
+  allow_implicit_invocation: false
